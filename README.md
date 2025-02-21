@@ -32,7 +32,7 @@ eMart is a secure and scalable e-commerce platform built using **Spring Boot**, 
    ## 📸 Project Screenshots
 ![Screenshot 1](https://drive.google.com/uc?id=1dEUilr_-S5nKu3niExMLxDQcUCoGaqif)
 ![Screenshot 2](https://drive.google.com/uc?id=1KWy7Y7PpPq0o1nZUKdagfSbte39ihfbM)
-![Screenshot 3](https://drive.google.com/uc?id=1HDy1CROW6TEMEezpkdGy4I_RFf1w1DOi)
+![Screenshot 3](https://drive.google.com/file/d/1HDy1CROW6TEMEezpkdGy4I_RFf1w1DOi/view?usp=sharing)
 
 ## Future Enhancements  
 🚀 Add payment integration  
