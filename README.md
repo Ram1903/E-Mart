@@ -28,9 +28,11 @@ eMart is a secure and scalable e-commerce platform built using **Spring Boot**, 
    ```bash
    mvn spring-boot:run
    ```
-   
-## 📸 Screenshots
-*(Add images of UI or API responses here)*
+
+   ## 📸 Project Screenshots
+![Screenshot 1](https://drive.google.com/uc?id=1dEUilr_-S5nKu3niExMLxDQcUCoGaqif)
+![Screenshot 2](https://drive.google.com/uc?id=1KWy7Y7PpPq0o1nZUKdagfSbte39ihfbM)
+![Screenshot 3](https://drive.google.com/uc?id=1HDy1CROW6TEMEezpkdGy4I_RFf1w1DOi)
 
 ## Future Enhancements  
 🚀 Add payment integration  
